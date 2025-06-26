@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvabodydisplay: block;
+}
+body {
+
+  margin: 0;
+
+  font-family: sans-serif;
+
+  background-color: #f0f0f0;
+
+  text-align: center;
+
+}
+
+main {
+
+  padding: 20px;
+
+}
+
+canvas {
+
+  border: 2px solid #444;
+
+  margin-top: 20px;
+
+}
